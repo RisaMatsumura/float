@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\TestDiscSpawner.cs">
+    <Files>
+      <File FileName="Assets\Editor\GameManagerTest.cs" Line="37" Column="1" />
+      <File FileName="Assets\Player\PlayerCollisions.cs" Line="14" Column="35" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="111" Column="72" />
+      <File FileName="Assets\Scripts\SceneManager.cs" Line="40" Column="41" />
+      <File FileName="Assets\Disc\DiscSpawner.cs" Line="80" Column="4" />
+      <File FileName="Assets\Editor\TestDiscSpawner.cs" Line="10" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
